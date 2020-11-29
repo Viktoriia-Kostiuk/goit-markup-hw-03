@@ -54,6 +54,7 @@ img {
   width: 1200px;
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
+  /*outline: 1px solid tomato;*/
 }
 
 .body {
